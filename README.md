@@ -1,0 +1,2 @@
+# demo
+MMācību repozitorijss.
