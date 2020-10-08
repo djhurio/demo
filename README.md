@@ -1,2 +1,3 @@
 # demo
-MMācību repozitorijss.
+Mācību repozitorijs.
+MND 20 gadi.
